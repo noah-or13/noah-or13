@@ -1,6 +1,6 @@
 # hey, i'm noah 👋
 
-self-taught developer and open source enthusiast based in ireland. i use linux, write code and put things out there for people to use. currently picking up python and git and just getting started.
+self-taught developer and open source enthusiast based in ireland. i use linux, i try to write code and put things out there for people to use. currently picking up python and git and just getting started.
 
 ---
 
