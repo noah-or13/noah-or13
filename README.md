@@ -35,7 +35,7 @@ self-taught developer and open source enthusiast based in ireland. i use linux, 
 
 ---
 
-## 📬 find 
+## 📬 find me
 [![GitHub](https://img.shields.io/badge/noah--or13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-or13)
 
 ---
