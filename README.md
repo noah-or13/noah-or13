@@ -5,32 +5,39 @@ self-taught developer and open source enthusiast based in ireland. i use linux, 
 ---
 
 ## 🛠️ stack & tools
-Package manager:
+
+**Package manager:**
 ![Nix](https://img.shields.io/badge/nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-[![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#)
-languages:
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white)
+
+**Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-Operating systems:
+
+**Operating systems:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Void](https://img.shields.io/badge/void-478061?style=for-the-badge&logo=void&logoColor=white)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-Window managers:
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Void](https://img.shields.io/badge/Void-478061?style=for-the-badge&logo=void&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+
+**Window managers:**
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
 ![i3](https://img.shields.io/badge/i3wm-263238?style=for-the-badge&logo=i3&logoColor=white)
 ![DWL](https://img.shields.io/badge/dwl-1A1A2E?style=for-the-badge&logoColor=white)
-Terminal emulators:
-![Kitty](https://img.shields.io/badge/kitty-black?style=for-the-badge&logo=kitty&logoColor=white)
-![Foot](https://img.shields.io/badge/foot-333333?style=for-the-badge&logoColor=white)
-Shell:
-[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
-Development tools:
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-version control:
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+**Terminal emulators:**
+![Kitty](https://img.shields.io/badge/Kitty-black?style=for-the-badge&logo=kitty&logoColor=white)
+![Foot](https://img.shields.io/badge/Foot-333333?style=for-the-badge&logoColor=white)
+
+**Shell:**
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
+
+**Development tools:**
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Version control:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
