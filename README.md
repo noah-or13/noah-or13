@@ -1,22 +1,36 @@
 # hey, i'm noah 👋
 
-self-taught developer and open source enthusiast based in ireland. i use linux, i try to write code and put things out there for people to use. currently picking up python and git and just getting started.
-
----
-
-## 🖥️ what i'm working on
-
-- **[my-configs](https://github.com/noah-or13/my-configs)** — a highly optimised hyprland dotfiles setup built around a clean coding stack on arch linux. built from scratch, open source, and free to use.
+self-taught developer and open source enthusiast based in ireland. i use linux, i try to write code and put things out there for people to use. currently picking up python and web dev and just getting started.
 
 ---
 
 ## 🛠️ stack & tools
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
+Package manager:
+![Nix](https://img.shields.io/badge/nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+[![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#)
+languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Operating systems:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Void](https://img.shields.io/badge/void-478061?style=for-the-badge&logo=void&logoColor=white)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+Window managers:
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
+![i3](https://img.shields.io/badge/i3wm-263238?style=for-the-badge&logo=i3&logoColor=white)
+![DWL](https://img.shields.io/badge/dwl-1A1A2E?style=for-the-badge&logoColor=white)
+Terminal emulators:
+![Kitty](https://img.shields.io/badge/kitty-black?style=for-the-badge&logo=kitty&logoColor=white)
+![Foot](https://img.shields.io/badge/foot-333333?style=for-the-badge&logoColor=white)
+Shell:
+[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
+Development tools:
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+version control:
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ---
 
@@ -27,10 +41,10 @@ self-taught developer and open source enthusiast based in ireland. i use linux, 
 | **cpu** | AMD Ryzen 5 5500 |
 | **gpu** | NVIDIA GTX 1660 Super |
 | **ram** | 32GB DDR4 |
-| **storage** | 512GB NVMe Gen 3 + 2TB Samsung 980 Gen 3 |
-| **os** | Arch Linux |
-| **wm** | Hyprland |
-| **terminal** | Alacritty |
+| **storage** | 2TB Samsung 980 Gen 3 |
+| **os** | Fedora |
+| **wm** | I3wm |
+| **terminal** | kitty |
 | **browser** | Librewolf |
 
 ---
